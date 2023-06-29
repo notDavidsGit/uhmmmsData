@@ -1,8 +1,8 @@
 # uhmmmsData
 data for the not David uhmms video
-URL: 
+URL: https://youtu.be/anSjZS63T7s
 
-fill contains the main presentation uhmmms and the question period uhmmms (denoted by Q).
+fill contains the main presentation time-between-uhmmms (in seconds) and the question period time-between-uhmmms (denoted by Q).
 Some columns go to different decimal points just because they were taken at different times with different clickers.
 
 
